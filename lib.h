@@ -1,1 +1,1 @@
-
+char carattere(char carattere)
