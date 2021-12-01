@@ -1,1 +1,1 @@
-char carattere(char carattere);
+char lettera(char carattere);
