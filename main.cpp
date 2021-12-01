@@ -10,7 +10,7 @@ int main(){
   
   sol = lettera(carattere);
   
-  if(sol)
+  if(sol == 1)
   {
     cout << sol << endl;
   }
