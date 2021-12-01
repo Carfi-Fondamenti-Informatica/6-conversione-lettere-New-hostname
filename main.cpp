@@ -4,15 +4,15 @@ using namespace std;
 
 int main(){
   
-  char carattere;
+  char carattere, sol;
   
   cin >> carattere;
   
-  lettera(carattere);
+  sol = lettera(carattere);
   
-  if(carattere)
+  if(sol)
   {
-    cout << lettera(carattere) << endl;
+    cout << sol << endl;
   }
   else
   {
