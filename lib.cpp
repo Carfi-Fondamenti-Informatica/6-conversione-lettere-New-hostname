@@ -1,5 +1,5 @@
 #include lib.h
-char carattere(char carattere){
+char lettera(char carattere){
 
   if(carattere >= 'A' && carattere <= 'Z')
   {
