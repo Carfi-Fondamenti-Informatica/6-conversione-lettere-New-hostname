@@ -1,4 +1,4 @@
-#include lib.h
+#include "lib.h"
 char lettera(char carattere){
 
   if(carattere >= 'A' && carattere <= 'Z')
