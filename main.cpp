@@ -10,7 +10,7 @@ int main(){
   
   conversione(carattere);
   
-  if(char)
+  if(carattere)
   {
     cout << conversione(carattere) << endl;
   }
