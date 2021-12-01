@@ -8,11 +8,11 @@ int main(){
   
   cin >> carattere;
   
-  conversione(carattere);
+  lettera(carattere);
   
   if(carattere)
   {
-    cout << conversione(carattere) << endl;
+    cout << lettera(carattere) << endl;
   }
   else
   {
